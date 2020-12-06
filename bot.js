@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const randomFile = require('select-random-file')
 
-client.login('NzExNjAyOTk5NzYzNTMzODM2.XsGIZg.RHdSqFCGcdxV2Hf8t0O-nVGML8g');
+client.login('hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh');
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
   client.user.setActivity(`siecioradio.begin() - by pzpl`);
